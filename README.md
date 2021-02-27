@@ -13,5 +13,4 @@ You can still run it if you apply all patches the the original source but that i
 
 # Gameplay
 
-![video](https://user-images.githubusercontent.com/1939926/109400398-d1d5fb80-7948-11eb-91d2-5a76dfdfed5c.mp4)
-
+![ezgif-1-9f3a02e57977](https://user-images.githubusercontent.com/1939926/109400500-5f195000-7949-11eb-85b7-753bf6bf226b.gif)
